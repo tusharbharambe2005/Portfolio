@@ -265,18 +265,18 @@
 }
 
 .image1 {
-    background: url(/images/vision.jfif);
+    background: url(vision.jfif);
     background-size: cover;
     
 }
 
 .image2 {
-    background: url(/images/amezon.png);
+    background: url(amezon.png);
     background-size: contain;
 }
 
 .image3 {
-    background: url(/images/tic\ tac\ toe.jfif);
+    background: url(tic\ tac\ toe.jfif);
     background-size:cover;
 }
 
