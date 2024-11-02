@@ -1,4 +1,4 @@
-# Vansh's Portfolio
+# Tushar's Portfolio
 Welcome to my portfolio! This repository showcases my projects, skills, and a little about who I am.
 
 ## Skills
